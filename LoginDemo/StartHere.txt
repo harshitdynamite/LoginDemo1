@@ -1,0 +1,12 @@
+Steps to start -:
+
+Open the solution in visual studio.
+Hit Ctrl+F5 to start the application -
+	this should start the service
+	And bring up the browser
+	On the browser hit this url- https://localhost:5001/swagger/index.html
+
+Find a lock button at the top right corner, click it
+Enter any text in the dialog that comes up
+This will do the jwt authentication for your user.
+and further api's should be good to go.
